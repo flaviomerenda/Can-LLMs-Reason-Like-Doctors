@@ -98,6 +98,3 @@ data/meld/*
 
 data/predictions/*
 !data/predictions/.gitkeep
-
-# Ignore specific file
-data/model_prompt_boxplot.png
